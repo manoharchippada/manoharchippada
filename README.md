@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Alumni+Sans+SC&size=22&pause=1000&center=true&vCenter=true&width=435&lines=FULL+STACK+%7C+ML+%7C+Data+Science+Explorer;Engineer+%F0%9F%A4%96+who+loves+learning;Building+Smart+Systems+%E2%9A%99%EF%B8%8F;Crafting+Projects+with+Purpose+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Alumni+Sans+SC&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Engineer+%F0%9F%A4%96+who+loves+to+code;FULL+STACK+%7C+ML+%7C+Data+Science+Explorer;Building+Smart+Systems+%E2%9A%99%EF%B8%8F;Crafting+Projects+with+Purpose+%F0%9F%92%BC" alt="Typing SVG" />
 </p>
 
 <p align="center">
