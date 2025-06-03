@@ -43,7 +43,7 @@
 <!-- Graduate Research Assistant -->
 <h3>
   <img
-    src="https://github.com/manoharchippada/manoharchippada/blob/main/assets/binghamton_logo.png?raw=true"
+    src="https://github.com/manoharchippada/manoharchippada/blob/main/binghamton.jpg?raw=true"
     alt="Binghamton University Logo"
     width="40"
     height="40"
@@ -60,7 +60,7 @@
 <!-- Professional 1 – DXC Technology -->
 <h3>
   <img
-    src="https://github.com/manoharchippada/manoharchippada/blob/main/assets/dxc_logo.png?raw=true"
+    src="https://github.com/manoharchippada/manoharchippada/blob/main/DXC-logo-650x650.webp?raw=true"
     alt="DXC Technology Logo"
     width="40"
     height="40"
@@ -82,7 +82,7 @@
 <!-- Software Intern – Marolix Technology Solutions -->
 <h3>
   <img
-    src="https://github.com/manoharchippada/manoharchippada/blob/main/assets/marolix_logo.png?raw=true"
+    src="https://github.com/manoharchippada/manoharchippada/blob/main/marolix_technology_logo.jpeg?raw=true"
     alt="Marolix Technology Solutions Logo"
     width="40"
     height="40"
