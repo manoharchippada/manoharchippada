@@ -14,7 +14,7 @@
 <p align="center">
     <a href="mailto:lchippada@binghamton.edu"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
     <a href="https://github.com/manoharchippada"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/manoharchippada"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/manohar-chippada-12b987179/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
