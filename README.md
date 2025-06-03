@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/manoharchippada/portfolio/blob/main/image2.png" alt="Ghibli Style Avatar" width="275" />
+  <img src="https://github.com/manoharchippada/manoharchippada/blob/main/image2.png" alt="Ghibli Style Avatar" width="275" />
 </p>
 
 <p align="center">
