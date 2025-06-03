@@ -70,14 +70,17 @@
 </h3>
 <em>Bengaluru, Karnataka, India | January 2021 – August 2023</em>
 <ul>
-  <li>Developed end-to-end automated test pipelines for embedded and web-based software systems using <strong>Python</strong> and <strong>C++</strong>.</li>
-  <li>Led traceability matrix generation, system test case design, and documentation to support multi-domain software validation.</li>
-  <li>Built mock hardware environments and performed integration tests for embedded applications using <strong>RTOS</strong>.</li>
-  <li>Collaborated with DevOps teams to integrate test suites into CI/CD pipelines with <strong>Jenkins</strong> and <strong>Azure DevOps</strong>.</li>
-  <li>Participated in cross-functional system design reviews, test artifact evaluations, and defect triage across global teams.</li>
-  <li>Conducted black-box and white-box testing on systems spanning medical, automotive, and consumer domains.</li>
-  <li>Facilitated in-depth training workshops on new applications, achieving a 90% satisfaction rate and boosting team confidence.</li>
+  <li>Launched resilient full-stack applications leveraging React.js, Node.js, and Spring Boot on AWS, reducing application latency by 35% and ensuring seamless user experiences.</li>
+  <li>Designed RESTful APIs & microservices, improving data exchange efficiency by 40%.</li>
+  <li>Developed CI/CD pipelines in Jenkins & Azure DevOps, improving deployment speed by 50%.</li>
+  <li>Deployed and managed Dockerized microservices on Kubernetes (EKS, AKS), enhancing scalability and fault tolerance.</li>
+  <li>Integrated multiple REST APIs into the backend to fetch the required data and optimized API-UI integration to display real-time eligibility results, detailed feedback, and appeal options, enhancing the user experience.</li>
+  <li>Resolved critical bugs and enhanced system reliability, ensuring seamless user experience and consistent application performance.</li>
+  <li>Contributed to the development of a cloud service-learning platform, enhancing the user experience by implementing various features.</li>
+  <li>Attended 10 industry conferences and webinars on new technology trends to gain insights; shared findings with teams, fostering a culture of innovation that led to the adoption of three cutting-edge tools for project management.</li>
+  <li>Conducted in-depth training workshops for new applications, incorporating real-world scenarios and practical exercises; direct feedback indicated a 90% satisfaction rate from participants and improved team confidence in application usage.</li>
 </ul>
+
 
 <!-- Software Intern – Marolix Technology Solutions -->
 <h3>
